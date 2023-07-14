@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Lower's Homepage"
+title                    : "Kevin's Homepage"
 title_separator          : "-"
 name                     : &name "Kevin Lower"
 description              : &description "Kevin's Personal Website"
