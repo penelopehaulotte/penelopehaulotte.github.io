@@ -1,23 +1,23 @@
 # main links links
 
 main:
-#  - title: "News"
-    url: /news/
-
   - title: "Research"
-    url: /research/    
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "CV"
     url: "https://www.docdroid.net/xJL2cq8/712-readings-pdf"
+    
+#  - title: "CV"
+#    url: ""
         
 #  - title: ""
-    url: /year-archive/
+#    url: /year-archive/
     
 #  - title: ""
-    url: /cv/
+#    url: /cv/
     
 #  - title: "Guide"
-    url: /markdown/
+#    url: /markdown/
