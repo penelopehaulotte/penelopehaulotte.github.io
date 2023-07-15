@@ -20,8 +20,6 @@ gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-git_source(:github) { |kevinlower| "https://github.com/kevinlower/kevinlower.github.io/tree/master" }
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
