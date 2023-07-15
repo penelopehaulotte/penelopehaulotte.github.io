@@ -1,4 +1,9 @@
 # main links links
+
+body {
+  div {
+  padding-left: 10px;
+  }}
 main:
   - title: "News"
     url: /news/
