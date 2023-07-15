@@ -16,10 +16,10 @@ I also organize a reading and research group on Cavendish's philosophical writin
 
 News
 ======
-<b>June 2023</b>  Kevin co-organized a virtual workshop on the philosophy of Margaret Cavendish.
+- <u>June 2023</u>: Kevin co-organized a [virtual workshop](https://philevents.org/event/show/105926) on the philosophy of Margaret Cavendish.
 
-<b>May 2023</b>   Kevin received a research grant for a project titled "Margaret Cavendish's Materialist Conception of Sympathy".
+- <u>May 2023</u>: Kevin received a research grant for a project titled "Margaret Cavendish's Materialist Conception of Sympathy".
 
-<b>April 2023</b> Kevin presented a paper titled "Margaret Cavendish's Relational Metaphysics of Action" at Reappearing Ink.
+- <u>April 2023</u>: Kevin presented a paper titled "Margaret Cavendish's Relational Metaphysics of Action" at [Reappearing Ink](https://philevents.org/event/show/99364).
 
-<b>March 2023</b> Kevin co-presented a paper with Brooke Sharp titled "The Passionate Mind of Thinking Matter" at RSA San Juan.
+- <u>March 2023</u>: Kevin co-presented a paper with Brooke Sharp titled "The Passionate Mind of Thinking Matter" at [RSA 2023: San Juan](https://rsa.confex.com/rsa/2023/meetingapp.cgi).
