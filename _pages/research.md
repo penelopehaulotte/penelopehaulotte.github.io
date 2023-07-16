@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Research"
-excerpt: "Kevin's Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 My name is Kevin Lower, and I am a PhD candidate in Philosophy at Villanova University. Lately, I spend most of my time thinking about mind, metaphysics, and the history of science in the early modern period. In particular, I focus on the philosophy of Margaret Cavendish, Duchess of Newcastle (1623-1673). You can find information about my ongoing projects on this website.
