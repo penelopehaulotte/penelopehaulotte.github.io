@@ -5,4 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching is really foundational to my self-conception as a philosopher. 
+Teaching is central to my self-conception as a philosopher. 
