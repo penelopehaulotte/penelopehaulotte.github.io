@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kevin Lower, and I am a PhD candidate in Philosophy at Villanova University. Lately, I spend most of my time thinking about mind, metaphysics, and the history of science in the early modern period. In particular, I focus on the philosophy of Margaret Cavendish, Duchess of Newcastle (1623-1673). You can find information about my ongoing projects on this website.
+My name is Penelope Haulotte, and I am a PhD student studying philosophy and Women, Gender, and Sexuality Studies (WGSS) at the University of New Mexico. My work generally focuses on historical reconstructions of German idealist philosophy and contemporary political interventions into trans theory, history, and activism. Despite obvious differences in content, I see both of these traditions as centrally concerned with the consequences of human freedom and self-determination.
 
-My dissertation is titled "Margaret Cavendish's Metaphysics of Action and Passion". It argues that Margaret Cavendish develops conceptually-intertwined accounts of action, passion, and sympathy. I am especially interested in how these concepts elucidate the metaphysical underpinnings of her theories of freedom, causation, and materiality.
+Today I happily find myself able to teach classes and work on my dissertation, but I still find ways to keep busy. I am one of the co-founders of _The Karasu Society_, an independent organization for the advancement of philosophy in Albuquerque. I was also managing editor of _TSQ_ from 2022-2023.
 
-I also organize a reading and research group on Cavendish's philosophical writings. Feel free to join us by visiting [our website](https://thecavendishcollective.weebly.com/)!
 
 News
 ======
-- <u>June 2023</u>: Kevin co-organized a [virtual workshop](https://philevents.org/event/show/105926) on the philosophy of Margaret Cavendish.
+- <u>Fall 2023</u>: Penelope will teach Phil 2210: Early Modern Philosophy and Phil 2220: Ancient Greek Philosophy at the University of New Mexico. She will also be grading for Gndr 2110: Introduction to Women, Gender, and Sexuality Studies.
 
-- <u>May 2023</u>: Kevin received a research grant for a project titled "Margaret Cavendish's Materialist Conception of Sympathy".
+- <u>June 2023</u>: Invited to present "Program for a Transgender Existentialism" by the Critical Phenomenology Reading Group (CPRG) housed by Queens University. 
 
-- <u>April 2023</u>: Kevin presented a paper titled "Margaret Cavendish's Relational Metaphysics of Action" at [Reappearing Ink](https://philevents.org/event/show/99364).
+- <u>February 2023</u>: Penelope's first article, "Program for a Transgender Existentialism," published by _TSQ: Transgender Studies Quarterly._ Article was selected for open access. 
 
-- <u>March 2023</u>: Kevin co-presented a paper with Brooke Sharp titled "The Passionate Mind of Thinking Matter" at [RSA 2023: San Juan](https://rsa.confex.com/rsa/2023/meetingapp.cgi/Day/2023-03-09).
+- <u>Spring 2022</u>: Penelope presented "Does the Argument from the Summons Succeed?: A Hegelian Perspective" at the fifteenth North American Fichte Society conference on Fichte's practical philosophy at DePaul University. 
