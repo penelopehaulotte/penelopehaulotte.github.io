@@ -19,6 +19,6 @@ News
 
 - <u>June 2023</u>: Invited to present "Program for a Transgender Existentialism" by the Critical Phenomenology Reading Group (CPRG) housed by Queens University. 
 
-- <u>February 2023</u>: Penelope's first article, "Program for a Transgender Existentialism," published by _TSQ: Transgender Studies Quarterly._ Article was selected for open access. [Check it out.]([url](https://read.dukeupress.edu/tsq/article/10/1/32/357429/Program-for-a-Transgender-Existentialism))
+- <u>February 2023</u>: Penelope's first article, "Program for a Transgender Existentialism," published by _TSQ: Transgender Studies Quarterly._ Article was selected for open access. [Check it out.](https://read.dukeupress.edu/tsq/article/10/1/32/357429/Program-for-a-Transgender-Existentialism)
 
 - <u>Spring 2022</u>: Penelope presented "Does the Argument from the Summons Succeed?: A Hegelian Perspective" at the fifteenth North American Fichte Society conference on Fichte's practical philosophy at DePaul University. 
