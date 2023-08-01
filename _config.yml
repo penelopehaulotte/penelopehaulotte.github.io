@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin's Homepage"
+title                    : "Penny's Homepage"
 title_separator          : "-"
-name                     : &name "Kevin Lower"
-description              : &description "Kevin's Personal Website"
-url                      : https://kevinlower.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Penelope Haulotte"
+description              : &description "Penny's Personal Website"
+url                      : https://penelopehaulotte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kevinlower/kevinlower.github.io"
+repository               : "penelopehaulotte/penelopehaulotte.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Lower"
+  name             : "Penelope Haulotte"
   avatar           : "profile.png"
-  bio              : "Philosophy PhD Candidate, Villanova University"
-  location         : "Pennsylvania, USA"
+  bio              : "Philosophy PhD, UNM"
+  location         : "Albuquerque, NM USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "kevin.lower@villanova.edu"
+  email            : "penelopehaulotte@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
