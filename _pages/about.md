@@ -12,7 +12,7 @@ My name is Penelope Haulotte, and I am a PhD student studying philosophy and Wom
 
 Today I happily find myself able to teach classes and work on my dissertation, but I still find ways to keep busy. I am one of the co-founders of _The Karasu Society_, an independent organization for the advancement of philosophy in Albuquerque. I was also managing editor of _TSQ_ from 2022-2023.
 
-I am a proud trans Texan woman who learned to love philosophy at a small liberal arts college. We did not have specialists in my areas of interest, but I was constantly amazed by the lengths my professors would go to further my education and feed my passion. My aim in life is to continue to give to others the great gift that was given to me. I aim to be very broadly interested in the history of philosophy, emulating my own very accommodating and flexible teachers.
+I am a proud gay trans Texan woman who learned to love philosophy at a small liberal arts college. We did not have specialists in my areas of interest, but I was constantly amazed by the lengths my professors would go to further my education and feed my passion. My aim in life is to continue to give to others the great gift that was given to me. I aim to be very broadly interested in the history of philosophy, emulating my own very accommodating and flexible teachers.
 
 News
 ======
