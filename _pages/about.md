@@ -12,10 +12,14 @@ My name is Penelope Haulotte, and I am a PhD student studying philosophy and Wom
 
 Today I happily find myself able to teach classes and work on my dissertation, but I still find ways to keep busy. I am one of the co-founders of _The Karasu Society_, an independent organization for the advancement of philosophy in Albuquerque. I was also managing editor of _TSQ_ from 2022-2023.
 
-I am a proud trans Texan woman who learned to love philosophy at a small liberal arts college . We did not have specialists in my areas of interest, but I was constantly amazed by the lengths my professors would go to further my education and feed my passion. My aim in life is to continue to give to others the great gift that was given to me. I aim to be very broadly interested in the history of philosophy, emulating my own very accommodating and flexible teachers.
+I am a proud trans Texan woman who learned to love philosophy at a small liberal arts college. We did not have specialists in my areas of interest, but I was constantly amazed by the lengths my professors would go to further my education and feed my passion. My aim in life is to continue to give to others the great gift that was given to me. I aim to be very broadly interested in the history of philosophy, emulating my own very accommodating and flexible teachers.
 
 News
 ======
+- <u>August 2023</u>: Penelope is hired as a part-time instructor at Central New Mexico Community College. Go suncats!
+  
+- <u>August 2023</u>: Penelope's "Gender Dysphoria for Critical Theory" has been accepted for publication into a special issue of _Feminist Philosophy Quarterly_ on moral responsibility.
+
 - <u>Fall 2023</u>: Penelope will teach Phil 2210: Early Modern Philosophy and Phil 2220: Ancient Greek Philosophy at the University of New Mexico. She will also be grading for Gndr 2110: Introduction to Women, Gender, and Sexuality Studies.
 
 - <u>June 2023</u>: Invited to present "Program for a Transgender Existentialism" by the Critical Phenomenology Reading Group (CPRG) housed by Queens University. 
