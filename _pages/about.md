@@ -16,6 +16,10 @@ I am a proud gay trans Texan woman who learned to love philosophy at a small lib
 
 News
 ======
+- <u>Spring 2024</u>: This Spring Penelope will teach Phil 1110: Introduction to Philosophy, Phil 2220: Ancient Greek Philosophy, Phil 358: Ethical Theory, and Gndr 2110: Introduction to Women, Gender, and Sexuality Studies. 
+
+- <u>October 2023</u>: Penelope will present "Lessing's Pantheism: Thinking Through the Contingency of God" at the inaugural Johns Hopkins Seminar on Medieval and Early Modern Philosophy (HSMEMP) in December. 
+
 - <u>August 2023</u>: Penelope is hired as a part-time instructor at Central New Mexico Community College. Go suncats!
   
 - <u>August 2023</u>: Penelope's "Gender Dysphoria for Critical Theory" has been accepted for publication into a special issue of _Feminist Philosophy Quarterly_ on moral responsibility.
