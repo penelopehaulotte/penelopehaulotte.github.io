@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Penelope Haulotte, and I am a PhD student studying philosophy and Women, Gender, and Sexuality Studies (WGSS) at the University of New Mexico. My work generally focuses on historical reconstructions of German idealist philosophy and contemporary political interventions into trans theory, history, and activism. Despite obvious differences in content, I see both of these traditions as centrally concerned with the consequences of human freedom and self-determination.
-
-Today I happily find myself able to teach classes and work on my dissertation, but I still find ways to keep busy. I am one of the co-founders of _The Karasu Society_, an independent organization for the advancement of philosophy in Albuquerque. I was also managing editor of _TSQ_ from 2022-2023.
+My name is Penelope Haulotte, and I am a PhD candidate studying philosophy and Women, Gender, and Sexuality Studies (WGSS) at the University of New Mexico. My work generally focuses on historical reconstructions of German idealist philosophy and contemporary political interventions into trans theory, history, and activism. I am currently on the Bilinski Dissertation Completion Fellowship for 2024-2025AY, and plan to graduate in the Spring of 2025. I am one of the co-founders of _The Karasu Society_, an independent organization for the advancement of philosophy in Albuquerque. I was also managing editor of _TSQ_ from 2022-2023.
 
 I am a proud gay trans Texan woman who learned to love philosophy at a small liberal arts college. We did not have specialists in my areas of interest, but I was constantly amazed by the lengths my professors would go to further my education and feed my passion. My aim in life is to continue to give to others the great gift that was given to me. I aim to be very broadly interested in the history of philosophy, emulating my own very accommodating and flexible teachers.
 
 News
 ======
+- <u>Summer 2024</u>: This summer Penelope taught Phil 1130: Contemporary Moral Issues. Penelope also traveled to London to present her paper "What did Fichte mean by (Maimonian) Skepticism?" at the North American Fichte Society. Penelope also received the Bilinski Dissertation Fellowship.
+
 - <u>Spring 2024</u>: This Spring Penelope will teach Phil 1110: Introduction to Philosophy, Phil 2220: Ancient Greek Philosophy, Phil 358: Ethical Theory, and Gndr 2110: Introduction to Women, Gender, and Sexuality Studies. 
 
 - <u>October 2023</u>: Penelope will present "Lessing's Pantheism: Thinking Through the Contingency of God" at the inaugural Johns Hopkins Seminar on Medieval and Early Modern Philosophy (HSMEMP) in December. 
